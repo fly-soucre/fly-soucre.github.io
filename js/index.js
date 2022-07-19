@@ -1,0 +1,1 @@
+console.log("%c Hi,欢迎来到我的彩虹小屋 -- 个人博客!!!!!", "color: gray");
